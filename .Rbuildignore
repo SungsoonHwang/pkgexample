@@ -1,3 +1,6 @@
 ^LICENSE\.md$
 ^project\.Rproj$
 ^\.Rproj\.user$
+^pkgexample\.Rcheck$
+^pkgexample.*\.tar\.gz$
+^pkgexample.*\.tgz$

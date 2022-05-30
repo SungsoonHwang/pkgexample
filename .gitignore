@@ -1,3 +1,6 @@
 .Rproj.user
 .RData
 .Rhistory
+pkgexample.Rcheck/
+pkgexample*.tar.gz
+pkgexample*.tgz
